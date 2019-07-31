@@ -2,7 +2,7 @@
 trash是一个规则解释器
 是booleano 在JAVA下的替代品
 目前都是根据我们的业务定制的
-- 目前支持的符号 ()、 == 、 >= 、<= 、< 、> 以及在 一些特殊的关键字 include in 、include 等等
+- 目前支持的符号 ()、 == 、 >= 、<= 、< 、> 以及在 一些特殊的关键字 included 、in 、and 、not等等
 - 目前支持pojo的值嵌套 沿用booleano 的风格用:分割 例如 item:name
 
 示例
